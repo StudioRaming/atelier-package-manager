@@ -77,6 +77,30 @@
           },
           "url": "https://github.com/StudioRaming/Onairdeck-Unity-Manager/releases/download/0.1.2/com.studioraming.manager-0.1.2.zip",
           "zipSHA256": "0a0cc8c27ffb7e54ce00f34b88a78b0432ba972d4f82d6c558abef333cc33c28"
+        },
+        "0.1.4": {
+          "name": "com.studioraming.manager",
+          "version": "0.1.4",
+          "displayName": "Atelier Manager",
+          "description": "Sign in to OnAirDeck, see your purchases, and download purchased assets straight into your Unity project.",
+          "unity": "2019.4",
+          "author": {
+            "name": "StudioRaming",
+            "email": "studioraming@gmail.com",
+            "url": "https://onairdeck.com"
+          },
+          "keywords": [
+            "onairdeck",
+            "studioraming",
+            "asset manager"
+          ],
+          "dependencies": {
+            "com.unity.modules.unitywebrequest": "1.0.0",
+            "com.unity.modules.jsonserialize": "1.0.0",
+            "com.unity.modules.imgui": "1.0.0"
+          },
+          "url": "https://github.com/StudioRaming/Onairdeck-Unity-Manager/releases/download/0.1.4/com.studioraming.manager-0.1.4.zip",
+          "zipSHA256": "7a8552d60c17df27e9fc085653317e7cc3d8c7829b73e3fe7a2420a0e34baaba"
         }
       }
     }
